@@ -32,6 +32,8 @@ And most important (for grid-tying), it's UL1741-**SB** compliant.
 
 ### The Frame
 
+![Screenshot of 3d model of frame with battery, inverter, conduit box, subpanel](./SS-v1.0-1.png)
+
 A frame is constructed of pressure-treated wood.
 Two 4x4x10 posts (ground contact-rated) are buried in the ground and set with concrete.
 Between those posts are horizontal 2x6 and 2x4 boards attached with structural screws, and two 2x6 boards attached vertically to distribute load.
@@ -39,6 +41,12 @@ Sheets of concrete tile backer 1/2" thick are attached to the face of the wood w
 
 Below the frame, soil is compacted and leveled, with paver sand added and leveled to raise the ground level (for rain/snow/etc) approx. 6 inches.
 A 2" thick 24x18 concrete paver is added on top for a stable fireproof base.
+
+[FreeCAD 1.0.2 model of frame, inverter, conduit box, subpanel](./ESSandPVMount1.FCStd)
+
+The 3D model linked above includes the real dimensions of the EG4 parts as I have measured them, including exact locations of bolt holes, mounting brackets, etc.
+Please feel free to check their dimensions in FreeCAD for use in your own projects.
+(But also, please confirm them before you commit to them; don't blame me if they don't fit!)
 
 ---
 
