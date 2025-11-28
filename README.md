@@ -84,6 +84,7 @@ Tinned copper lay-in lugs are attached to each panel, with a ground wire running
 No grounding rod is installed, as there is already one at **Power Distribution**; from that, a bare copper ground cable is run to the arrays.
 
 Each array is about 19.5 feet wide and 7 feet long. The rear array is set back about 15 feet and raised by 2 feet to compensate for shading.
+(A single combined array would've required less area, but tilted at 60 degrees becomes quite tall and a building code headache)
 
 #### Solar panel wiring/protection
 
